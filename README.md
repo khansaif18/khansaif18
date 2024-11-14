@@ -1,0 +1,6 @@
+- 👋 Hi, I’m "Mohd Saif"
+- 🌱 I’m learning MERN Stack Development along with PostgresQL and NextJS
+- 💞️ Currently looking for work ...
+- 📫 Reach me out at mailto:khansaiff001@gmail.com
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ...
