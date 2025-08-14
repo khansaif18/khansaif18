@@ -1,5 +1,5 @@
 - 👋 Hi, I’m "Mohd Saif"
-- 🌱 I’m a MERN Stack Developer
+- 🌱 I’m learning MERN Stack Development and Data Analysis
 - 💞️ Currently looking for work ...
 - 📫 Reach me out at mailto:khansaiff001@gmail.com
 - 😄 Pronouns: ... He/Him
