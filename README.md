@@ -1,4 +1,4 @@
-# Hi there, I'm Khan Saif! 👋
+# Hi there, I'm Mohd Saif! 👋
 
 🎓 **Student | Aspiring Developer & Data Analyst**
 
@@ -20,7 +20,7 @@ Currently exploring data analysis, SQL, and advanced web development. Love exper
 
 ## 🌐 Connect with Me
 - [X (Twitter)](https://x.com/khansaif_18)
-- [LinkedIn](https://linkedin.com/in/khansaif_18)
+- [LinkedIn](https://linkedin.com/in/khansaif18)
 
 ---
 
