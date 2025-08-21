@@ -1,17 +1,15 @@
-# Hi there, I'm Mohd Saif! 👋
+# Hi, I'm Mohd Saif! 👋
 
 🎓 **Student | Aspiring Developer & Data Analyst**
 
 I'm passionate about learning and building cool things with technology. My journey started with MERN Stack development, and now I'm diving into the world of Data Analysis!
 
----
 
 ## 🛠️ Top Skills & Technologies
-- **Languages:** JavaScript, TypeScript, C++
+- **Languages:** JavaScript, TypeScript, C++, Python
 - **Web Development:** MERN Stack (MongoDB, Express, React, Node.js)
 - **Data Analysis:** SQL, PostgreSQL, MongoDB, Excel
 
----
 
 ## 🌱 What I’m Learning
 Currently exploring data analysis, SQL, and advanced web development. Love experimenting with new tools and turning data into insights!
@@ -21,6 +19,7 @@ Currently exploring data analysis, SQL, and advanced web development. Love exper
 ## 🌐 Connect with Me
 - [X (Twitter)](https://x.com/khansaif_18)
 - [LinkedIn](https://linkedin.com/in/khansaif18)
+- [Email](mailto:khansaiff001@gmail.com)
 
 ---
 
